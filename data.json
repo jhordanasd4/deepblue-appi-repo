@@ -1,0 +1,29 @@
+{
+  "last_user_id": 2,
+  "usuarios": [
+    {
+      "user_id": "dbu-001",
+      "username": "demo", 
+      "email": "demo@deepblue.com",
+      "password": "demo", 
+      "nivel": 1,
+      "gotas_agua": 100,
+      "perlas": 5,
+      "arrecife_items": [
+        { "id": 1, "nombre": "Pez Payaso", "tipo": "especie", "pos_x": 30, "pos_y": 60 }
+      ]
+    },
+    {
+      "user_id": "dbu-002",
+      "username": "admin",
+      "email": "admin@deepblue.com",
+      "password": "admin", 
+      "nivel": 5,
+      "gotas_agua": 500,
+      "perlas": 20,
+      "arrecife_items": [
+        { "id": 2, "nombre": "Coral Abanico", "tipo": "coral", "pos_x": 65, "pos_y": 50 }
+      ]
+    }
+  ]
+}
